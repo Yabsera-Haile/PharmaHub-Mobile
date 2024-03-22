@@ -14,7 +14,7 @@ export default function CheckOutScreen() {
       longitude: 38.7469,
     },
     name: "Beyene Solomon",
-    phone: "+251 911 11 11 11",
+    phone: "+251 985928080",
   }
   const navigation = useNavigation();
   const dispatch = useDispatch();
